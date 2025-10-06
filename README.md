@@ -35,6 +35,13 @@ Full-Stack MERN developer focused on building **scalable**, **maintainable**, an
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mongodb,docker,vercel,figma&perline=8" alt="Tech stack"/>
 </p>
 
+<p align="center">
+  <!-- Live 3D header link -->
+  <a href="https://adnan-aadi7.github.io/adnan-aadi7/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_3D_Header-Three.js-0ea5e9?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js Live Header" />
+  </a>
+</p>
+
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion (for optional motion in apps)
 
 **Backend:** Node.js, Express.js, MongoDB (Mongoose), REST & GraphQL

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Adnan Haider — 3D Header</title>
+    <style>
+      html, body { height: 100%; margin: 0; background: #0b1220; }
+      #app { position: fixed; inset: 0; overflow: hidden; }
+      .overlay {
+        position: absolute; inset: 0; display: grid; place-items: center;
+        pointer-events: none; color: #e5f0ff; font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji;
+        text-align: center; padding: 24px;
+      }
+      .title { font-weight: 800; font-size: clamp(28px, 6vw, 56px); letter-spacing: 0.5px; }
+      .subtitle { opacity: 0.9; font-weight: 500; font-size: clamp(14px, 2.4vw, 20px); }
+      .glow { text-shadow: 0 2px 16px rgba(14,165,233,0.55); }
+      .badge {
+        position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%);
+        background: rgba(14,165,233,0.12); border: 1px solid rgba(14,165,233,0.35);
+        color: #9bdcff; border-radius: 999px; padding: 8px 14px; font-size: 12px;
+        text-decoration: none; pointer-events: auto;
+      }
+      canvas { display: block; }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <div class="overlay">
+      <div>
+        <div class="title glow">Adnan Haider</div>
+        <div class="subtitle">Full‑Stack MERN · TypeScript · Clean Architecture</div>
+      </div>
+      <a class="badge" href="../README.md">Back to README</a>
+    </div>
+
+    <!-- Three.js via CDN -->
+    <script src="https://unpkg.com/three@0.160.0/build/three.min.js"></script>
+    <!-- Additive postprocessing glow (optional minimal) -->
+    <script>
+      // Minimalist particle wave + gradient lights
+      const container = document.getElementById('app');
+      const scene = new THREE.Scene();
+      const camera = new THREE.PerspectiveCamera(55, window.innerWidth / window.innerHeight, 0.1, 2000);
+      camera.position.set(0, 60, 140);
+
+      const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      renderer.outputColorSpace = THREE.SRGBColorSpace;
+      container.appendChild(renderer.domElement);
+
+      // Gradient fog for depth
+      scene.fog = new THREE.Fog(new THREE.Color('#0b1220'), 120, 300);
+
+      // Lights
+      const light1 = new THREE.PointLight('#38bdf8', 18, 600);
+      light1.position.set(-120, 80, 120);
+      scene.add(light1);
+
+      const light2 = new THREE.PointLight('#0ea5e9', 12, 600);
+      light2.position.set(160, 40, -60);
+      scene.add(light2);
+
+      const ambient = new THREE.AmbientLight('#cbd5e1', 0.14);
+      scene.add(ambient);
+
+      // Plane geometry deformed into a smooth wave
+      const cols = 180, rows = 120, size = 2.0;
+      const geometry = new THREE.PlaneGeometry(cols * size, rows * size, cols, rows);
+      geometry.rotateX(-Math.PI / 2);
+
+      const material = new THREE.MeshStandardMaterial({
+        color: '#0f172a', metalness: 0.35, roughness: 0.6,
+        side: THREE.DoubleSide,
+        onBeforeCompile: (shader) => {
+          shader.fragmentShader = shader.fragmentShader.replace(
+            '#include <output_fragment>',
+            `
+            // soft additive glow
+            vec3 glowColor = vec3(0.08, 0.52, 0.80) * 0.35;
+            float glow = smoothstep(0.0, 1.0, pow(1.0 - dot(normalize(vNormal), vec3(0.0,1.0,0.0)), 2.0));
+            vec4 baseColor = vec4(diffuseColor.rgb, 1.0);
+            vec3 finalColor = baseColor.rgb + glowColor * glow;
+            gl_FragColor = vec4(finalColor, baseColor.a);
+            `
+          );
+        }
+      });
+      const plane = new THREE.Mesh(geometry, material);
+      plane.position.y = -10;
+      scene.add(plane);
+
+      // Particles above the wave
+      const particleCount = 1800;
+      const particleGeometry = new THREE.BufferGeometry();
+      const positions = new Float32Array(particleCount * 3);
+      const speeds = new Float32Array(particleCount);
+      for (let i = 0; i < particleCount; i++) {
+        positions[i * 3 + 0] = (Math.random() - 0.5) * 360;
+        positions[i * 3 + 1] = Math.random() * 120 + 10;
+        positions[i * 3 + 2] = (Math.random() - 0.5) * 360;
+        speeds[i] = 0.2 + Math.random() * 0.6;
+      }
+      particleGeometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+      const particleMaterial = new THREE.PointsMaterial({ size: 1.6, color: '#9bdcff', transparent: true, opacity: 0.85 });
+      const particles = new THREE.Points(particleGeometry, particleMaterial);
+      scene.add(particles);
+
+      // Wave animation params
+      const original = geometry.attributes.position.array.slice();
+      let t = 0;
+
+      function animate() {
+        t += 0.0065;
+
+        const pos = geometry.attributes.position.array;
+        for (let i = 0; i < pos.length; i += 3) {
+          const x = pos[i + 0];
+          const z = pos[i + 2];
+          const y0 = original[i + 1];
+          pos[i + 1] = y0 + Math.sin((x + t * 60.0) * 0.02) * 2.0 + Math.cos((z - t * 40.0) * 0.018) * 2.2;
+        }
+        geometry.attributes.position.needsUpdate = true;
+        geometry.computeVertexNormals();
+
+        // drift lights subtly
+        light1.position.x = Math.sin(t * 0.9) * 160.0;
+        light2.position.z = Math.cos(t * 1.1) * 120.0;
+
+        // rise particles slowly; wrap around
+        const p = particleGeometry.attributes.position.array;
+        for (let i = 1; i < p.length; i += 3) {
+          p[i] += speeds[(i - 1) / 3] * 0.35;
+          if (p[i] > 160) p[i] = 10;
+        }
+        particleGeometry.attributes.position.needsUpdate = true;
+
+        renderer.render(scene, camera);
+        requestAnimationFrame(animate);
+      }
+      animate();
+
+      function onResize() {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+      }
+      window.addEventListener('resize', onResize);
+    </script>
+  </body>
+  </html>
+
+
