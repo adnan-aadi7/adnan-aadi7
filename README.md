@@ -7,12 +7,17 @@ Instructions:
 -->
 
 <p align="center">
-  <!-- Static gradient header image (non-animated) -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&section=header&text=Adnan%20Haider&fontSize=44&fontColor=ffffff&color=0:0f172a,100:0ea5e9&desc=Full-Stack%20MERN%20Developer%20%7C%20Modern%20Web&descSize=14" alt="Adnan Haider" />
+  <!-- Animated, wavy gradient header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Adnan%20Haider&fontSize=44&fontColor=ffffff&color=0:0f172a,100:0ea5e9&desc=Full-Stack%20MERN%20Developer%20%7C%20Modern%20Web&descSize=14&fontAlign=50&descAlign=50" alt="Adnan Haider" />
+</p>
+
+<p align="center">
+  <!-- Animated typing intro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2500&pause=600&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=Building+scalable+%26+delightful+web+experiences;MERN+Stack+%7C+TypeScript+%7C+Clean+Architecture;Performance+%2F+DX+%2F+UI+Polish" alt="Typing Animation" />
 </p>
 
 
-## 👋 Hello — I'm Adnan Haider
+## 👋 Hello — I'm Adnan Haider <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" height="20" />
 Full-Stack MERN developer focused on building **scalable**, **maintainable**, and **user-friendly** web applications. I combine modern frontend patterns with solid backend architecture to deliver production-ready solutions.
 
 ---
@@ -40,22 +45,25 @@ Full-Stack MERN developer focused on building **scalable**, **maintainable**, an
 
 ## 🚀 Selected Projects
 - **Brokerage Platform** — Role-based SaaS portal with Stripe subscriptions and real-time notifications.  
-  Repo: `https://github.com/<YOUR_GITHUB_USERNAME>/brokerage-platform`
+  Repo: `https://github.com/adnan-aadi7/brokerage-platform`
 
 - **Social Pro** — Messaging app with synchronized unread indicators, Cloudinary uploads.  
-  Repo: `https://github.com/<YOUR_GITHUB_USERNAME>/social-pro`
+  Repo: `https://github.com/adnan-aadi7/social-pro`
 
 - **Design Editor** — Image editor with canvas effects and text styling.  
-  Repo: `https://github.com/<YOUR_GITHUB_USERNAME>/design-editor`
-
-> Replace the example repo links with your actual repositories to show demos and code.
+  Repo: `https://github.com/adnan-aadi7/design-editor`
 
 ---
 
-## 📈 GitHub Stats (static images)
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&hide_border=true" height="140" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_GITHUB_USERNAME>&hide_border=true" height="140" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan-aadi7&show_icons=true&hide_border=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-aadi7&hide_border=true&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" height="150" alt="streak" />
+</p>
+
+<p align="center">
+  <!-- Animated contribution graph (SVG refreshes) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-aadi7&bg_color=0d1117&color=ffffff&line=0ea5e9&point=38bdf8&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -78,4 +86,9 @@ Full-Stack MERN developer focused on building **scalable**, **maintainable**, an
 
 <p align="center">
   <small>Lightweight • Professional • Ready to personalize</small>
+</p>
+
+<p align="center">
+  <!-- Animated footer wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:0ea5e9" alt="footer" />
 </p>
