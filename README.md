@@ -13,7 +13,7 @@ Instructions:
 
 <p align="center">
   <!-- Animated typing intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2500&pause=600&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=700&lines=Building+scalable+%26+delightful+web+experiences;MERN+Stack+%7C+TypeScript+%7C+Clean+Architecture;Performance+%2F+DX+%2F+UI+Polish" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Building+scalable+%26+delightful+web+experiences;MERN+Stack+%7C+TypeScript+%7C+Clean+Architecture;Performance+%2F+DX+%2F+UI+Polish" alt="Typing Animation" />
 </p>
 
 
