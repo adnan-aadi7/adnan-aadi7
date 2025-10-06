@@ -78,9 +78,9 @@ Full-Stack MERN developer focused on building **scalable**, **maintainable**, an
 ---
 
 ## 📬 Contact
-- ✉️ Email: **youremail@example.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/your-link**
-- 🌐 Portfolio: **https://portfolio.example.com**
+- ✉️ Email: **adnanhaider9993@gmail.com**
+- 🔗 LinkedIn: ****
+- 🌐 Portfolio: ****
 
 ---
 
