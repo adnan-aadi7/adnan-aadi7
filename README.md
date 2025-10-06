@@ -17,7 +17,7 @@ Instructions:
 </p>
 
 
-## 👋 Hello — I'm Adnan Haider <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" height="20" />
+## 👋 Hello — I'm Adnan Haider <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" height="30" />
 Full-Stack MERN developer focused on building **scalable**, **maintainable**, and **user-friendly** web applications. I combine modern frontend patterns with solid backend architecture to deliver production-ready solutions.
 
 ---
