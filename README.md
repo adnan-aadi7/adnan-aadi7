@@ -53,15 +53,36 @@
   <h3>📂 Featured Work</h3>
 </div>
 
-<table align="center" width="90%">
-  <tr>
-    <td width="33%"><b>Brokerage Platform</b><br/>SaaS portal with Stripe & real-time notifications.<br/><i>Next.js, Node.js</i></td>
-    <td width="33%"><b>Social Pro</b><br/>Messaging app with synchronized unread indicators.<br/><i>React, Socket.io, MongoDB</i></td>
-    <td width="33%"><b>Design Editor</b><br/>Image editor featuring canvas effects and styling.<br/><i>TypeScript, Fabric.js</i></td>
-  </tr>
-</table>
+### 🚴‍♂️ 1. VéloCliqué – Cycling Community Platform
+> Full-stack platform connecting cyclists with local bike shops, routes, and gear recommendations.
+- **Advanced Search:** Built a search system (state, city, ZIP) with detailed shop listings and verification badges.
+- **Route-Sharing:** Implemented route-sharing integrated with Strava and Google Maps.
+- **Community:** Created reviews, favorites, user contributions, and a dedicated management dashboard.
+- **Monetization:** Integrated Stripe for sponsorships and contributions.
 
-<br/>
+### 🧠 2. Aneuro – Interactive Quiz-Based Audience Platform
+> Platform analyzing user behavior to provide personalized recommendations and marketing insights.
+- **Interactive Quizzes:** Built to analyze user preferences and behaviors.
+- **Real-time Features:** Developed live interactions using Web Sockets.
+- **Dashboards:** Created role-based dashboards for personalized experiences.
+- **Payments:** Implemented Stripe for secure, seamless payments.
+
+### 🤖 3. Social Pro – AI-Powered Social Media Automation
+> AI-driven platform for content generation and multi-platform scheduling.
+- **Automation:** Built AI-powered tools for intelligent content generation.
+- **Scheduling:** Implemented a scheduling system for multiple social media platforms.
+- **Architecture:** Designed a scalable backend for secure, high-volume data handling.
+
+### 🏦 4. Web Bank App – Bank Management System
+> Lead management and collaboration platform for banking teams.
+- **Analytics:** Developed real-time notifications and comprehensive dashboard analytics.
+- **Security:** Implemented strict role-based authentication and authorization.
+- **Workflow:** Added advanced search capabilities for efficient team collaboration.
+
+### 🎟️ 5. Premium Coupons & Cashback Platform
+> A modern, high-performance platform for curated deals and cashback rewards.
+- **Dynamic UI:** Features real-time hot deals, barcode scanning, and detailed store categories.
+- **Architecture:** Built with an optimized React/Next.js frontend and a robust Node/Express backend.
 <br/>
 
 <div align="center">
