@@ -29,8 +29,8 @@
 <div align="center">
   <h3>🔥 Daily Contributions</h3>
   <br/>
-  <!-- This is the BLUE DOTS graph -->
-  <img src="https://ghchart.rshah.org/0EA5E9/adnan-aadi7" alt="Adnan Haider's Github Chart" width="800" />
+  <!-- Animated contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-aadi7&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
