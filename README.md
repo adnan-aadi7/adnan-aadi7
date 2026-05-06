@@ -1,86 +1,69 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,2,5,24&fontColor=ffffff&text=Adnan%20Haider&fontSize=60&desc=Full-Stack%20MERN%20Developer&descSize=20&descAlignY=75&fontAlignY=40" width="100%"/>
-
-<!-- Animated Typing Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+scalable+web+experiences;MERN+Stack+Specialist;Passionate+about+Clean+Architecture" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0ea5e9&fontColor=ffffff&text=Adnan%20Haider&fontSize=50&desc=Full-Stack%20Software%20Engineer&descSize=18&fontAlignY=35&descAlignY=65" width="100%"/>
 </div>
 
-<!-- Introduction -->
+<br/>
+
 <div align="center">
-  <h3>Hi there! I'm Adnan 👋</h3>
-  <p>I'm a passionate Full-Stack Developer specializing in the <b>MERN Stack</b>. I love building robust, scalable, and visually stunning web applications that solve real-world problems. With a keen eye for performance and user experience, I transform complex requirements into elegant code.</p>
+  <p><i>Building scalable, robust, and elegant web applications with the modern JavaScript ecosystem.</i></p>
+  <p>
+    <a href="mailto:adnanhaider9993@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0ea5e9" alt="Email" /></a>
+    <a href="https://linkedin.com/in/adnan-haider-3b361a298/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>
+    <a href="https://adnan-aadi7.github.io/adnan-aadi7/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=0ea5e9" alt="Portfolio" /></a>
+  </p>
 </div>
 
-<br />
-
-<!-- Tech Stack -->
-## 🛠️ My Tech Arsenal
+<br/>
 
 <div align="center">
+  <h3>🛠️ Core Technologies</h3>
+  <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,redux,docker,git,figma&theme=dark&perline=12" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,docker,figma&theme=dark&perline=10" alt="Tech Stack" />
   </a>
 </div>
 
-<br />
+<br/>
+<br/>
 
-<!-- Split Layout: Quick Facts & Stats -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Quick Facts</h3>
-      <ul>
-        <li>🔭 Currently building a <b>Premium Coupons Platform</b></li>
-        <li>🌱 Constantly learning <b>Advanced System Design</b></li>
-        <li>🤝 Open for <b>Freelance</b> & <b>Full-time Roles</b></li>
-        <li>💬 Ask me about <b>React, Node.js, and TypeScript</b></li>
-        <li>⚡ Fun fact: I obsess over pixel-perfect UI</li>
-      </ul>
+<div align="center">
+  <h3>🔥 Daily Contributions</h3>
+  <br/>
+  <!-- This is the BLUE DOTS graph -->
+  <img src="https://ghchart.rshah.org/0EA5E9/adnan-aadi7" alt="Adnan Haider's Github Chart" width="800" />
+</div>
+
+<br/>
+<br/>
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=adnan-aadi7&show_icons=true&hide_border=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9&text_color=777777" alt="GitHub stats" />
     </td>
-    <td width="50%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=adnan-aadi7&show_icons=true&hide_border=true&theme=radium&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="GitHub stats" />
-      </div>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-aadi7&hide_border=true&theme=transparent&ring=0ea5e9&fire=0ea5e9&currStreakNum=0ea5e9&sideLabels=777777&dates=777777" alt="GitHub streak" />
     </td>
   </tr>
 </table>
 
-<br />
+<br/>
 
-<!-- Featured Projects -->
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 📈 **[Brokerage Platform](https://github.com/adnan-aadi7/brokerage-platform)** | Role-based SaaS portal with Stripe subscriptions and real-time notifications. | `Next.js` `Node.js` `Stripe` |
-| 💬 **[Social Pro](https://github.com/adnan-aadi7/social-pro)** | Real-time messaging app with synchronized unread indicators and media uploads. | `React` `Socket.io` `MongoDB` |
-| 🎨 **[Design Editor](https://github.com/adnan-aadi7/design-editor)** | Advanced image editor featuring canvas effects, filters, and text styling. | `TypeScript` `Fabric.js` |
-
-<br />
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-aadi7&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <h3>📂 Featured Work</h3>
 </div>
 
-<br />
+<table align="center" width="90%">
+  <tr>
+    <td width="33%"><b>Brokerage Platform</b><br/>SaaS portal with Stripe & real-time notifications.<br/><i>Next.js, Node.js</i></td>
+    <td width="33%"><b>Social Pro</b><br/>Messaging app with synchronized unread indicators.<br/><i>React, Socket.io, MongoDB</i></td>
+    <td width="33%"><b>Design Editor</b><br/>Image editor featuring canvas effects and styling.<br/><i>TypeScript, Fabric.js</i></td>
+  </tr>
+</table>
 
-<!-- Footer & Socials -->
+<br/>
+<br/>
+
 <div align="center">
-  <h3>Let's Connect! 📬</h3>
-  <a href="mailto:adnanhaider9993@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/adnan-haider-3b361a298/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://adnan-aadi7.github.io/adnan-aadi7/">
-    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0ea5e9&text=Thank%20you%20for%20visiting!&fontSize=14&fontColor=ffffff" width="100%"/>
 </div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=0,2,2,5,24" width="100%"/>
