@@ -29,8 +29,12 @@
 <div align="center">
   <h3>🔥 Daily Contributions</h3>
   <br/>
-  <!-- Animated contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-aadi7&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- Responsive Light/Dark blue dots graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/0EA5E9/adnan-aadi7">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0284C7/adnan-aadi7">
+    <img src="https://ghchart.rshah.org/0EA5E9/adnan-aadi7" alt="GitHub Contribution Calendar" width="800" />
+  </picture>
 </div>
 
 <br/>
