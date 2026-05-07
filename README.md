@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <h3>🔥 Daily Contributions</h3>
   <br/>
   <!-- Responsive Light/Dark blue dots graph -->
@@ -35,7 +35,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0284C7/adnan-aadi7">
     <img src="https://ghchart.rshah.org/0EA5E9/adnan-aadi7" alt="GitHub Contribution Calendar" width="800" />
   </picture>
-</div>
+</div> -->
 
 <br/>
 <br/>
