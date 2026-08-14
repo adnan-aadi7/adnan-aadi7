@@ -1,120 +1,365 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&fontColor=ffffff&text=Adnan%20Haider&fontSize=50&desc=Full-Stack%20Software%20Engineer&descSize=18&fontAlignY=35&descAlignY=65&animation=fadeIn" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+MERN;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
-</div>
+# 🟠 ADNAN HAIDER
 
-<br/>
+### Full Stack MERN Engineer · AI & Automation Developer
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding animation" width="450"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:adnanhaider9993@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=FFFFFF&color=FFF7ED" alt="Email" /></a>
-  <a href="https://linkedin.com/in/adnan-haider-3b361a298/"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=FFFFFF&color=FFF7ED" alt="LinkedIn" /></a>
-  <a href="https://adnan-aadi7.github.io/adnan-aadi7/"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=F97316&labelColor=FFFFFF&color=FFF7ED" alt="Portfolio" /></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🛠️ Core Technologies</h3>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,docker,figma&theme=light&perline=10" alt="Tech Stack" />
+<p>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://fiverr.com/">
+    <img src="https://img.shields.io/badge/Fiverr-FF7A00?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=FF7A00&center=true&vCenter=true&width=700&lines=Building+Modern+Full+Stack+Web+Applications;MERN+%7C+Next.js+%7C+React+%7C+Node.js;AI+Integration+%7C+n8n+Automation;Turning+Ideas+Into+Production-Ready+Products" />
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
+**2+ Years Experience** · **15+ Production Applications** · **Full Stack + AI**
+
 </div>
+
+---
+
+## 🟠 About Me
+
+I'm a **Full Stack MERN Engineer** focused on building scalable, secure and modern web applications.
+
+I specialize in **React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL and AI-powered automation**.
+
+I've shipped **15+ production web applications** and worked on everything from high-performance frontends and secure REST APIs to AI content systems, payment integrations and real-time applications.
+
+> **I don't just write code — I build products.**
+
+---
+
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full Stack Applications
+
+* React & Next.js applications
+* RESTful APIs
+* Authentication & RBAC
+* Admin dashboards
+* SaaS platforms
+* E-commerce systems
+
+</td>
+<td width="50%">
+
+### 🤖 AI & Automation
+
+* AI-powered web applications
+* OpenAI & Gemini integrations
+* n8n workflow automation
+* AI content generation
+* Intelligent matching systems
+* Resume automation
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 💳 Integrations
+
+* Stripe payments
+* Cloudinary
+* Google APIs
+* Google Maps
+* Strava
+* Twilio
+* Affiliate APIs
+
+</td>
+<td>
+
+### ⚙️ Real-Time & Backend
+
+* Socket.IO
+* WebSockets
+* Push notifications
+* PostgreSQL
+* MongoDB
+* Supabase
+* Secure JWT APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React.js-FF7A00?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-FF7A00?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-FF7A00?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-FF7A00?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/ShadCN_UI-111111?style=flat-square"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-FF7A00?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-FF7A00?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-FF7A00?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+### AI · Automation · Cloud
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-FF7A00?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-111111?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-FF7A00?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF7A00?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🟠 VeloClique
+
+**Cycling Community Platform**
+
+`React.js` `Node.js` `MongoDB` `Stripe` `Google Maps` `Strava API`
+
+A location-based cycling platform featuring bike-shop discovery, route sharing, sponsorship payments and personalized user dashboards.
+
+**Built:**
+
+* 📍 Location-based bike-shop discovery
+* 🗺️ Google Maps integration
+* 🚴 Strava API integration
+* 💳 Secure Stripe payments & webhooks
+* ⭐ Reviews, favourites & saved routes
+* 📊 Personalized dashboards
+
+---
+
+## 🟠 Aneuro
+
+**Interactive Quiz-Based Audience Intelligence Platform**
+
+`React.js` `Node.js` `MongoDB` `Socket.IO` `Stripe`
+
+An interactive platform that analyzes user preferences and behavior to identify personalized audience "brain types" and generate marketing insights.
+
+**Built:**
+
+* 🧠 Interactive quiz engine
+* 🎯 Personalized audience recommendations
+* 📈 Marketing insights
+* 💳 Stripe integration
+* ⚡ Real-time functionality with Socket.IO
+
+---
+
+## 🟠 Social Pro
+
+**AI-Powered Social Media Automation**
+
+`React.js` `Express.js` `MongoDB` `OpenAI` `React Query`
+
+An AI-powered social media platform for generating, editing and scheduling branded content across social platforms.
+
+**Built:**
+
+* 🤖 AI content generation
+* ✍️ Professional content editor
+* 🎨 Templates & branding styles
+* 📅 Social media scheduling
+* ⚙️ Scalable AI processing backend
+
+---
+
+## 🟠 Skill Match
+
+**AI-Powered Skilled Worker Marketplace**
+
+`React Native` `Expo` `Supabase` `PostgreSQL` `OpenAI` `Express.js`
+
+An intelligent marketplace connecting clients with skilled workers using AI-powered matching and location-aware search.
+
+**Built:**
+
+* 🤖 AI hybrid-search matching engine
+* 💬 Real-time chat
+* 🔔 Push notifications
+* 📍 Distance-based worker discovery
+* 💰 Budget estimation
+* 📱 Client & worker mobile interfaces
+* 🗄️ Supabase + PostgreSQL architecture
+
+---
+
+## 🟠 Coupons Mart
+
+**E-Commerce Coupon & Deals Platform**
+
+`Next.js` `Node.js` `MongoDB` `OpenAI` `Affiliate APIs`
+
+A high-performance coupon and deals platform with automated affiliate synchronization and AI-powered coupon verification.
+
+**Built:**
+
+* ⚡ Sub-second page loads
+* 🔎 SEO-optimized architecture
+* 🔄 Automated affiliate synchronization
+* 🤖 AI coupon verification
+* 🎛️ Complete admin dashboard
+* 🏷️ Dynamic categories & offers
+
+---
+
+# 📈 Engineering Impact
+
+<div align="center">
+
+|                      |                                     |
+| -------------------- | ----------------------------------- |
+| 🧑‍💻 **2+ Years**   | Professional Full Stack Experience  |
+| 🚀 **15+**           | Production Applications             |
+| 🧩 **30+**           | Reusable UI Components              |
+| ⚡ **40%**            | Reduced Repeated Development Effort |
+| 🔐 **0**             | Unauthorized Access Incidents       |
+| 🌍 **International** | Client & Freelance Experience       |
+
+</div>
+
+---
+
+# 💼 Professional Experience
+
+### 🟠 Full Stack Developer — DevEntia Tech Pvt Ltd
+
+**Aug 2024 – Jun 2026 · Islamabad**
+
+* Delivered **8 production web applications**
+* Built a shared library of **30+ reusable UI components**
+* Reduced repeated development effort by approximately **40%**
+* Optimized performance using code splitting, lazy loading and bundle optimization
+* Built secure JWT + RBAC REST APIs
+* Integrated Stripe, Cloudinary, Google APIs and OpenAI APIs
+* Worked within Agile/Scrum development environments
+
+### 🟠 Freelance Full Stack Developer
+
+**Jun 2026 – Present**
+
+* Building React.js / Next.js solutions for international clients
+* Developed an AI resume-tailoring automation pipeline using **n8n + Gemini + LaTeX**
+* Continuing development of **Skill Match**, an AI-powered skilled-worker platform
+
+---
+
+# 🤖 AI & Automation
+
+<div align="center">
+
+### Turning AI into real products.
+
+</div>
+
+```text
+                 ┌──────────────────────┐
+                 │       AI LAYER       │
+                 │ OpenAI / Gemini APIs │
+                 └──────────┬───────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ↓              ↓              ↓
+        AI Content      AI Matching    AI Automation
+             │              │              │
+             └──────────────┼──────────────┘
+                            ↓
+                    ┌───────────────┐
+                    │   Web / App   │
+                    │ React / Next  │
+                    └───────────────┘
+```
+
+### Current AI Toolkit
+
+`OpenAI API` · `Google Gemini` · `n8n` · `AI Workflows` · `Hybrid Search` · `AI Content Generation` · `Automation Pipelines`
+
+---
+
+# 🧠 Engineering Philosophy
+
+```javascript
+const developer = {
+  mindset: "Build products, not just features",
+  focus: [
+    "Clean Architecture",
+    "Performance",
+    "Security",
+    "Scalability",
+    "Great UX"
+  ],
+  approach: "Learn → Build → Ship → Improve"
+};
+```
+
+---
+
+# 🟠 Let's Build Something Great
+
+<div align="center">
+
+### Have an idea, product or startup?
+
+**Let's turn it into something people actually want to use.**
 
 <br/>
 
-<div align="center">
-  <h3>🏆 Trophy Case</h3>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=adnan-aadi7&theme=flat&no-frame=true&no-bg=true&column=6&title.color=F97316&icon.color=F97316&text.color=57534E&rank.color=F97316" alt="Trophies" />
+<a href="mailto:adnanhaider9993@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF7A00?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-FF7A00?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=120&section=footer"/>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
-</div>
 
-<br/>
+**© Adnan Haider · Full Stack MERN Engineer**
 
-<div align="center">
-  <h3>📂 Featured Work</h3>
-</div>
+*Code. Create. Automate. Ship.*
 
-<br/>
-
-### 🚴‍♂️ 1. VéloCliqué – Cycling Community Platform
-> Full-stack platform connecting cyclists with local bike shops, routes, and gear recommendations.
-- **Advanced Search:** Built a search system (state, city, ZIP) with detailed shop listings and verification badges.
-- **Route-Sharing:** Implemented route-sharing integrated with Strava and Google Maps.
-- **Community:** Created reviews, favorites, user contributions, and a dedicated management dashboard.
-- **Monetization:** Integrated Stripe for sponsorships and contributions.
-
-### 🧠 2. Aneuro – Interactive Quiz-Based Audience Platform
-> Platform analyzing user behavior to provide personalized recommendations and marketing insights.
-- **Interactive Quizzes:** Built to analyze user preferences and behaviors.
-- **Real-time Features:** Developed live interactions using Web Sockets.
-- **Dashboards:** Created role-based dashboards for personalized experiences.
-- **Payments:** Implemented Stripe for secure, seamless payments.
-
-### 🤖 3. Social Pro – AI-Powered Social Media Automation
-> AI-driven platform for content generation and multi-platform scheduling.
-- **Automation:** Built AI-powered tools for intelligent content generation.
-- **Scheduling:** Implemented a scheduling system for multiple social media platforms.
-- **Architecture:** Designed a scalable backend for secure, high-volume data handling.
-
-### 🏦 4. Web Bank App – Bank Management System
-> Lead management and collaboration platform for banking teams.
-- **Analytics:** Developed real-time notifications and comprehensive dashboard analytics.
-- **Security:** Implemented strict role-based authentication and authorization.
-- **Workflow:** Added advanced search capabilities for efficient team collaboration.
-
-### 🎟️ 5. Premium Coupons & Cashback Platform
-> A modern, high-performance platform for curated deals and cashback rewards.
-- **Dynamic UI:** Features real-time hot deals, barcode scanning, and detailed store categories.
-- **Architecture:** Built with an optimized React/Next.js frontend and a robust Node/Express backend.
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>📈 Contribution Graph</h3>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-aadi7&theme=react&hide_border=true&bg_color=FFFFFF&color=F97316&line=F97316&point=EA580C&area=true&area_color=FDBA74" alt="Contribution graph" width="95%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&text=Thank%20you%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adnan-aadi7&color=f97316&style=flat&label=Profile+Views" alt="Profile views"/>
 </div>
