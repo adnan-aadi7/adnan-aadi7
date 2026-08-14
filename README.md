@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0B0B,45:161616,75:FF6B00,100:0B0B0B&text=ADNAN%20HAIDER&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER&descSize=20&descAlignY=63&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=750&color=FF6B00&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Modern+%26+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Better+Products+%E2%80%A2+Real+Impact" alt="Typing animation"/>
 
 <br/>
 
