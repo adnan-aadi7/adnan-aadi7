@@ -9,6 +9,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding animation" width="450"/>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="mailto:adnanhaider9993@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=FFFFFF&color=FFF7ED" alt="Email" /></a>
   <a href="https://linkedin.com/in/adnan-haider-3b361a298/"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=FFFFFF&color=FFF7ED" alt="LinkedIn" /></a>
   <a href="https://adnan-aadi7.github.io/adnan-aadi7/"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=F97316&labelColor=FFFFFF&color=FFF7ED" alt="Portfolio" /></a>
@@ -34,25 +40,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>📊 GitHub Activity</h3>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=adnan-aadi7&show_icons=true&hide_border=true&theme=default&bg_color=FFFFFF&title_color=F97316&icon_color=F97316&text_color=57534E&hide_rank=false&border_radius=12&border_color=FDBA74" alt="GitHub stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=adnan-aadi7&hide_border=true&background=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=57534E&dates=A8A29E&border_radius=12&stroke=FDBA74" alt="GitHub streak" width="48%"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-aadi7&layout=compact&hide_border=true&theme=default&bg_color=FFFFFF&title_color=F97316&text_color=57534E&border_radius=12&border_color=FDBA74&langs_count=8" alt="Top languages" width="48%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>📈 Contribution Graph</h3>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-aadi7&theme=react&hide_border=true&bg_color=FFFFFF&color=F97316&line=F97316&point=EA580C&area=true&area_color=FDBA74" alt="Contribution graph" width="95%"/>
 </div>
 
 <br/>
@@ -107,6 +94,20 @@
 > A modern, high-performance platform for curated deals and cashback rewards.
 - **Dynamic UI:** Features real-time hot deals, barcode scanning, and detailed store categories.
 - **Architecture:** Built with an optimized React/Next.js frontend and a robust Node/Express backend.
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📈 Contribution Graph</h3>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-aadi7&theme=react&hide_border=true&bg_color=FFFFFF&color=F97316&line=F97316&point=EA580C&area=true&area_color=FDBA74" alt="Contribution graph" width="95%"/>
+</div>
 
 <br/>
 
