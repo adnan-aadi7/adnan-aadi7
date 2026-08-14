@@ -41,10 +41,18 @@
 <div align="center">
   <h3>📊 GitHub Activity</h3>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=adnan-aadi7&show_icons=true&hide_border=true&theme=default&bg_color=FFFFFF&title_color=F97316&icon_color=F97316&text_color=57534E&border_radius=12" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-aadi7&hide_border=true&background=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=57534E&dates=A8A29E&border_radius=12" alt="GitHub streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan-aadi7&show_icons=true&hide_border=true&theme=default&bg_color=FFFFFF&title_color=F97316&icon_color=F97316&text_color=57534E&hide_rank=false&border_radius=12&border_color=FDBA74" alt="GitHub stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=adnan-aadi7&hide_border=true&background=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=57534E&dates=A8A29E&border_radius=12&stroke=FDBA74" alt="GitHub streak" width="48%"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-aadi7&layout=compact&hide_border=true&theme=default&bg_color=FFFFFF&title_color=F97316&text_color=57534E&border_radius=12" alt="Top languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-aadi7&layout=compact&hide_border=true&theme=default&bg_color=FFFFFF&title_color=F97316&text_color=57534E&border_radius=12&border_color=FDBA74&langs_count=8" alt="Top languages" width="48%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📈 Contribution Graph</h3>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-aadi7&theme=react&hide_border=true&bg_color=FFFFFF&color=F97316&line=F97316&point=EA580C&area=true&area_color=FDBA74" alt="Contribution graph" width="95%"/>
 </div>
 
 <br/>
@@ -52,17 +60,7 @@
 <div align="center">
   <h3>🏆 Trophy Case</h3>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=adnan-aadi7&theme=flat&no-frame=true&no-bg=true&column=6&title.color=F97316&icon.color=F97316&text.color=57534E" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <br/>
-  <img src="https://raw.githubusercontent.com/adnan-aadi7/adnan-aadi7/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
-  <br/>
-  <sub><i>Powered by the <a href="https://github.com/Platane/snk">snk</a> GitHub Action — set up a workflow in this repo to keep it animated daily.</i></sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=adnan-aadi7&theme=flat&no-frame=true&no-bg=true&column=6&title.color=F97316&icon.color=F97316&text.color=57534E&rank.color=F97316" alt="Trophies" />
 </div>
 
 <br/>
