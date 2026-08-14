@@ -86,7 +86,7 @@ I work across the full development lifecycle — from **responsive React/Next.js
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="80%" valign="top">
 
 ### 🟠 Frontend
 
